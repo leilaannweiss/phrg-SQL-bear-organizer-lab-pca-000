@@ -98,4 +98,8 @@ You may be expected to use SQL statements that you're not particularly familiar 
 [SQL Datatypes](https://www.sqlite.org/datatype3.html)
 [SQL GROUP BY](https://www.sqlite.org/lang_select.html#resultset)
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-SQL-bear-organizer-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-SQL-bear-organizer-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG SQL Bear Organizer</p>
